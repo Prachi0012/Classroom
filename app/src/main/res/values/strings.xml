@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Classroom</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="feedback">Send Google feedback</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
